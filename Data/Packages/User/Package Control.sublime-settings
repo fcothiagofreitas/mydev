@@ -1,0 +1,24 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"ColorPicker",
+		"CSS3",
+		"Dictionaries",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"Material Theme",
+		"Package Control",
+		"SCSS",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeREPL",
+		"Terminal",
+		"Theme - Soda"
+	]
+}
