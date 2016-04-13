@@ -1,6 +1,7 @@
 {
 	"bold_folder_labels": true,
 	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"dictionary": "Packages/Laguagens/Portuguese (Brazilian).dic",
 	"ensure_newline_at_eof_on_save": true,
 	"ignored_packages":
 	[
